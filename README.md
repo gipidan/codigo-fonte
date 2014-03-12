@@ -1,4 +1,4 @@
-Vestis PCP
+Vestis PCP - Planejamento de Controle de Produção
 ============
 
 PCP - Planejamento de Controle de Produção.
