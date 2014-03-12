@@ -1,6 +1,6 @@
 Vestis PCP
 ============
 
-PCP - Planejamento de Controle de Produção.
+PCP - Planejamento e Controle da Produção.
 
 Sistema E.R.P. para Indústrias de Roupas (Confecções) em Geral.
