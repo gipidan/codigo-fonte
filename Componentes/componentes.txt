@@ -1,16 +1,7 @@
-COMPONENTES (TODOS ULTIMA VERS�O):
+COMPONENTES (TODOS ULTIMAS VERSOES):
 
  - ACBr;
  - Devart UniDAC (Banco de Dados);
  - FastReport (Relatorios);
  - QuickReport (Relatorios);
  - TMS Component Pack;
-
-
-
-
-
-
-
-
-
