@@ -361,8 +361,6 @@ uses
 
 begin
 
-
-
   Application.Initialize;
 
   Application.HintHidePause := MaxInt;
@@ -379,10 +377,4 @@ begin
   Application.ProcessMessages;
   Application.Run;
 
-
-
-
-
 end.
-
-
